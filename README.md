@@ -1,6 +1,6 @@
 
 <h2> (Hello)🙏🏻, I'm Mizun17! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://tenor.com/view/hacker-soy-hacker-programador-soy-programador-soy-gif-18513448" width="230">
+<img align='right' src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="230">
 
 
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
