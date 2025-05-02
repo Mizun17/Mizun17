@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="230">
 
 
-###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
+###<imgsrc="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29xYTB2Z2RydTdpeHFhZjRrY21wb21ob3h6bmRpMXhocnMxY3BxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YyKPbc5OOTSQE/giphy.gif" height="20"> **aboutMe.js**
 
 ```javascript
 const Mizun17 = {
