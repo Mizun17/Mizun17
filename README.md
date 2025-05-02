@@ -1,12 +1,8 @@
 
-<h2> (Hello)🙏🏻, I'm FckgnZero710! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> (Hello)🖥️  I'm FckgnZero710! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29xYTB2Z2RydTdpeHFhZjRrY21wb21ob3h6bmRpMXhocnMxY3BxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YyKPbc5OOTSQE/giphy.gif" width="230">
 
 ```javascript
-// ┌───────────────────────────────────────────┐
-// │       BOTNET CONTROL PANEL v3.14         │
-// └───────────────────────────────────────────┘
-
 export const C2Panel = {
   operator: "FckngZero710",
   aliases: ["FckngZero710", "zXys", "Mizun"],
