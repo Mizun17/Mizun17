@@ -3,7 +3,6 @@
 
 
 - :telescope: Actualmente me encuentro desarrollando el proyecto "SXL-AC"
-- 😀: Me gusta zNoxy15
 - 📭 Discord: !zXys#6666
 
 ## SXL-AC/SXL STORE
